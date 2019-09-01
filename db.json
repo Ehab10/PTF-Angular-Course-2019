@@ -1,4 +1,5 @@
-[
+{
+  "users":[
     {
       "username":"ehab",
       "password":"123",
@@ -26,3 +27,4 @@
       "title":"QC Engineer"
     }
   ]
+}
