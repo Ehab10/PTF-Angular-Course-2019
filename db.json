@@ -1,0 +1,28 @@
+[
+    {
+      username:'ehab',
+      password:'123',
+      nickName:'Pop',
+      title:'Software Developer'
+    },{
+      username:'peter',
+      password:'234',
+      nickName:'Peet',
+      title:'Frontend Developer'
+    },{
+      username:'mina',
+      password:'345',
+      nickName:'Monz',
+      title:'Bacend Developer'
+    },{
+      username:'mohsen',
+      password:'456',
+      nickName:'Mo7sen',
+      title:'Project Manager'
+    },{
+      username:'marina',
+      password:'567',
+      nickName:'Rina',
+      title:'QC Engineer'
+    }
+  ]
